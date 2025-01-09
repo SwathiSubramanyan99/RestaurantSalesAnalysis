@@ -85,10 +85,7 @@ pip install pandas pandasql
 ```
 
 ### Running the Code
-1. Clone this repository:
-    ```bash
-    git clone [<repository-url>](https://github.com/SwathiSubramanyan99/RestaurantSalesAnalysis.git)
-    ```
+1. Clone this repository
 2. Navigate to the project directory and run the Jupyter Notebook.
 3. Ensure all the dataset files are placed in the working directory.
 
