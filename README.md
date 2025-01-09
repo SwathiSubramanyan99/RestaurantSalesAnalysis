@@ -76,3 +76,29 @@ Power BI dashboards were created to support the analysis:
    - Visual representation of top members by their contribution to earnings.
 3. **Staffing Optimization**:
    - Heatmap showing peak hours across restaurants to assist in shift planning.
+  
+## Getting Started
+### Prerequisites
+Ensure you have Python 3 installed along with the following libraries:
+```bash
+pip install pandas pandasql
+```
+
+### Running the Code
+1. Clone this repository:
+    ```bash
+    git clone <repository-url>
+    ```
+2. Navigate to the project directory and run the Jupyter Notebook.
+3. Ensure all the dataset files are placed in the working directory.
+
+## Future Improvements
+- Extend analysis to include predictive modeling for customer behavior.
+- Enhance visualizations using Tableau or advanced Power BI features.
+
+## Author
+**Swathi Subramanyan**
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project as long as proper attribution is given to the author. See the LICENSE file for details.
+
